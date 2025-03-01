@@ -1,0 +1,29 @@
+{
+  "name": "@veivel/carboncss",
+  "version": "1.0.5",
+  "description": "A minimal CSS theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veivel/carboncss.git"
+  },
+  "keywords": [
+    "css",
+    "theme",
+    "minimalism"
+  ],
+  "author": "veivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veivel/carboncss/issues"
+  },
+  "homepage": "https://github.com/Veivel/carboncss#readme",
+  "files": [
+    "style.css",
+    "typography.css",
+    "effects.css"
+  ]
+}
