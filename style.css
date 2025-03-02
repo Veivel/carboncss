@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import "@veivel/carboncss/typography.css";
-@import "@veivel/carboncss/effects.css";
+@import "@veivel/carboncss/dist/typography.css";
+@import "@veivel/carboncss/dist/effects.css";
 
 :root {
   --background: #313131;

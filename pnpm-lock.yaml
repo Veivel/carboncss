@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@veivel/carboncss':
+    specifier: ^1.0.8
+    version: 1.0.8
+
+packages:
+
+  /@veivel/carboncss@1.0.8:
+    resolution: {integrity: sha512-5Yj8apCcggdWeuXYIyTYRCX2G0gIJJBEq5qaRf0nhGpcKE/iQMh9i3+4XTF1SIPm6fnYQNFobzSkeFOs6NkKHw==}
+    dev: false

@@ -1,6 +1,6 @@
 {
   "name": "@veivel/carboncss",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "A minimal CSS theme.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,12 @@
   "homepage": "https://github.com/Veivel/carboncss#readme",
   "files": [
     "style.css",
-    "typography.css",
-    "effects.css"
-  ]
+    "dist/typography.css",
+    "dist/effects.css",
+    "dist/geist-mono.woff2",
+    "dist/geist.woff2"
+  ],
+  "dependencies": {
+    "@veivel/carboncss": "^1.0.8"
+  }
 }
